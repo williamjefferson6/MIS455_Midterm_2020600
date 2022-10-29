@@ -1,0 +1,74 @@
+.navbar-nav {
+    width: 1000px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: right;
+}
+.nav-item {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.btn.rounded-pill {
+    background-color: #21b573;
+    color:white;
+}
+.nav-link:visited {
+    color:black;
+}
+.nav-link:hover {
+    color:rgb(0, 0, 0);
+}
+#bleh {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.card.hi{
+    display: flex;
+    flex-direction: column;
+    background-color: #f1fff0;
+    text-decoration: none;
+    justify-content: center;
+    align-items: center;
+    height: 270px;
+    padding-top: 35px;
+}
+.card.hi:hover{
+    background-color: white;
+    text-decoration: none;
+}
+#bla {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.a {
+    display: flex;
+}
+.date{
+    width: 30px;
+}
+.seats{
+    width: 30px;
+}
+.nav-link.p-0.text {
+    color:white;
+}
+.testem {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.teste {
+    width: 700px;
+    padding-left: 20px;
+}
+.nav.flex-column {
+    width: 300px;
+}
+.copyright {
+    width: 2000px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    padding-top: 70px;
+}
